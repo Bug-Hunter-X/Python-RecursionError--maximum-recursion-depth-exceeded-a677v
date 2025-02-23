@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a common error: exceeding the maximum recursion depth. The `bug.py` file shows the erroneous recursive function. The `bugSolution.py` file presents a corrected version using iteration.
